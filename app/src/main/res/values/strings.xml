@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Demo Image View</string>
+    <string name="Day1">Day 1</string>
+    <string name="Day2">Day 2</string>
+    <string name="Day3">Day 3</string>
+    <string name="Day4">Day 4</string>
+    <string name="Day5">Day 5</string>
+
 </resources>
